@@ -1,6 +1,6 @@
 # TypeScript Node Starter
 
-[![Dependency Status](https://david-dm.org/Microsoft/TypeScript-Node-Starter.svg)](https://david-dm.org/Microsoft/TypeScript-Node-Starter) [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Node-Starter.svg?branch=master)](https://travis-ci.org/Microsoft/TypeScript-Node-Starter) 
+[![Dependency Status](https://david-dm.org/shortgiraffe4/TypeScript-Node-Starter.svg)](https://david-dm.org/Microsoft/TypeScript-Node-Starter) [![Build Status](https://travis-ci.org/shortgiraffe4/TypeScript-Node-Startersvg?branch=master)](https://travis-ci.org/Microsoft/TypeScript-Node-Starter) 
 
 **Live Demo**: [https://typescript-node-starter.azurewebsites.net/](https://typescript-node-starter.azurewebsites.net/)
 
@@ -19,7 +19,7 @@ To build and run this app locally you will need a few things:
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/Microsoft/TypeScript-Node-Starter.git <project_name>
+git clone --depth=1 https://github.com/shortgiraffe4/TypeScript-Node-Startergit <project_name>
 ```
 - Install dependencies
 ```
